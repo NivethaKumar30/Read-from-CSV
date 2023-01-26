@@ -34,4 +34,7 @@ print("columns",len(df.axes[1]))
 
 ## OUTPUT:
 
+![PANDAS](https://user-images.githubusercontent.com/119559844/214965798-092846f4-ce58-42a9-be8e-a9aaad7f0a0f.png)
+
+
 ## RESULT:
